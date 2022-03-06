@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -34,6 +34,7 @@
   "name": "getmime",
   "author": "Naxrul Ahmed",
   "module": "dist/getmime.esm.js",
+  "description": "lightweight js library to read file mime type and extention",
   "keywords": ["getmime", "file-mime", "file-types", "file-mime-types"],
   "size-limit": [
     {
