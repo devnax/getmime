@@ -411,7 +411,6 @@ const types = {
    "jnlp": "application/x-java-jnlp-file",
    "joda": "application/vnd.joost.joda-archive",
    "jp2": "image/jp2",
-   "jpe": "image/jpeg",
    "jpeg": "image/jpeg",
    "jpf": "image/jpx",
    "jpg": "image/jpeg",
